@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "JAFAFC Fan site"
+title = "Jus Another F'in AFC Fan Site"
 
 [params]
 displayName = "EN"
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-name = "bukayodegaard"
+name = "/u/bukayodegaard / HallsAnkle"
 #  email = "youremail@example.com"
 image = "img/blowfish_logo.png"
 imageQuality = 96
