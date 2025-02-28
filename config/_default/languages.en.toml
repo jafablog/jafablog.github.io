@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Jus Another F'in AFC Fan Site"
+title = "JAFA FC - Just Another Fckin AFC Fan Site"
 
 [params]
 displayName = "EN"
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-name = "/u/bukayodegaard / HallsAnkle"
+name = "J.A.F'n A.F.C. fan"
 #  email = "youremail@example.com"
 image = "img/blowfish_logo.png"
 imageQuality = 96
@@ -23,7 +23,7 @@ headline = "AFC for life."
 bio = "AFC season ticket holder, redditor, discorder, coder."
 links = [
   #     { email = "mailto:hello@your_domain.com" },
-  #     { link = "https://link-to-some-website.com/" },
+  { discord = "https://discord.gg/45davdkGXg" },
   #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #     { apple = "https://www.apple.com" },
   #     { blogger = "https://username.blogspot.com/" },
