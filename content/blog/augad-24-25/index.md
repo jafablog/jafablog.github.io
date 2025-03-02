@@ -9,7 +9,7 @@ weight = 10
 
 # Auckland Goal A Day, 2024-25 season
 
-The [original announcement](https://www.reddit.com/r/AucklandFC/comments/1izo271/auckland_goal_a_day_begins_tomorrow/):
+## The [original announcement](https://www.reddit.com/r/AucklandFC/comments/1izo271/auckland_goal_a_day_begins_tomorrow/)
 
 > Auckland Goal A Day begins tomorrow 💙🖤⚽️📆
 > AucklandFC's Goal A Day is a celebration of Auckland FC's unbelievable inaugural season in the A-League:
@@ -22,9 +22,13 @@ The [original announcement](https://www.reddit.com/r/AucklandFC/comments/1izo271
 >
 > Up the Black and Blues!
 
+## The fan page
+
+This is it.
+
 ## AFC Goals - 2024-25
 
-Goal data from: <https://fbref.com/en/squads/4cb614ef/2024-2025/goallogs/all_comps/Auckland-FC-Goal-Logs-All-Competitions>
+Goals [data source](https://fbref.com/en/squads/4cb614ef/2024-2025/goallogs/all_comps/Auckland-FC-Goal-Logs-All-Competitions)
 
 | Column 15                                                                                                | Date       | Venue | Scorer                  | Opponent       | Start | Minute | Score | Goalkeeper          | Assist           | Notes    |
 | -------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------------------- | -------------- | ----- | ------ | ----- | ------------------- | ---------------- | -------- |
