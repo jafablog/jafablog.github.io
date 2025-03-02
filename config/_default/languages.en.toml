@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "JAFAblog - Just Another Fckn Auckland FC blog"
+title = "JAFAblog - Just Another Fan's Auckland FC blog"
 
 [params]
 displayName = "EN"
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-name = "AFC fan #1"
+name = "Another AFC fan"
 #  email = "youremail@example.com"
 image = "img/blowfish_logo.png"
 imageQuality = 96
