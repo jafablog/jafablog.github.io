@@ -30,7 +30,7 @@ This is it.
 
 Goals [data source](https://fbref.com/en/squads/4cb614ef/2024-2025/goallogs/all_comps/Auckland-FC-Goal-Logs-All-Competitions)
 
-| Column 15                                                                                                | Date       | Venue | Scorer                  | Opponent       | Start | Minute | Score | Goalkeeper          | Assist           | Notes    |
+| Reddit link                                                                                              | Date       | Venue | Scorer                  | Opponent       | Start | Minute | Score | Goalkeeper          | Assist           | Notes    |
 | -------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------------------- | -------------- | ----- | ------ | ----- | ------------------- | ---------------- | -------- |
 | [#1](https://www.reddit.com/r/AucklandFC/comments/1j0g9yf/auckland_fcs_goal_a_day_1_van_der_saag_og_vs/) | 2024-10-19 | Home  | Harry Van der Saag (OG) | Brisbane       | Y     | 8      | 0-0   | Macklin Freke       |                  | Own Goal |
 | [#2](https://www.reddit.com/r/AucklandFC/comments/1j18fb9/auckland_fcs_goal_a_day_2_logan_rogerson_vs/)  | 2024-10-19 | Home  | Logan Rogerson          | Brisbane       | Y     | 74     | 1-0   | Macklin Freke       | Guillermo May    |          |
