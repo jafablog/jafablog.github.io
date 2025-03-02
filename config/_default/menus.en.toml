@@ -22,7 +22,13 @@ weight = 10
 [[main]]
 name = "Augad 2024-25"
 parent = "Blog"
-pageRef = "content/augad-24-25"
+pageRef = "augad-24-25"
+weight = 20
+
+[[main]]
+name = "Games 2024-25"
+parent = "Blog"
+pageRef = "games-24-25"
 weight = 20
 
 #[[main]]
