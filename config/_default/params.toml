@@ -57,16 +57,16 @@ showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
 # showAuthorBottom = false
-showHero = false
+showHero = true
 # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
 layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 showBreadcrumbs = false
 showDraftLabel = true
-showEdit = false
+showEdit = true
 # editURL = "https://github.com/username/repo/"
 editAppendPath = true
 seriesOpened = false
@@ -80,7 +80,18 @@ showTableOfContents = false
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = true
-# sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+sharingLinks = [
+  "linkedin",
+  "twitter",
+  "bluesky",
+  "mastodon",
+  "reddit",
+  "pinterest",
+  "facebook",
+  "email",
+  "whatsapp",
+  "telegram",
+]
 showZenMode = false
 
 [list]

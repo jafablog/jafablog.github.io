@@ -9,28 +9,20 @@ weight = 10
 
 # Auckland Goal A Day, 2024-25 season
 
-## The [original announcement](https://www.reddit.com/r/AucklandFC/comments/1izo271/auckland_goal_a_day_begins_tomorrow/)
+AucklandFC's Goal A Day is a celebration of Auckland FC's unbelievable inaugural season in the A-League.
 
-> Auckland Goal A Day begins tomorrow 💙🖤⚽️📆
-> AucklandFC's Goal A Day is a celebration of Auckland FC's unbelievable inaugural season in the A-League:
->
-> Every day, starting tomorrow 1st March, I'll post a clip of an AFC league goal, in chronological order. We'll use upvotes to decide the best loved goal, and then collate them on a fan page somewhere, ranked by upvotes ...
->
-> By my calculations, this festive season will go on till well into April. The more goals we score in March/April, the longer it goes. The day after the last day shall be known as St Jafa's Day. Feel free to predict the date for St Jafa's - winner gets a free drink.
->
-> First post will be tomorrow morning, with a clip of that sublime OG against Ror.
->
-> Up the Black and Blues!
+Every day from 1st March 2025, I’ll post a clip of an AFC league goal, in chronological order.
 
-## The fan page
-
-This is it.
+- By my calculations, this festive season will go on till well into April. The more goals we score in March/April, the longer it goes.
+- The day after the last day shall be known as St Jafa’s Day.
+- This page lists all the goals and links to the clips.
+- The [original announcement](https://www.reddit.com/r/AucklandFC/comments/1izo271/auckland_goal_a_day_begins_tomorrow/).
+- The [data source](https://fbref.com/en/squads/4cb614ef/2024-2025/goallogs/all_comps/Auckland-FC-Goal-Logs-All-Competitions) for the list of goals.
+- We’ll use upvotes to decide the best loved goal, and then collate them on a fan page somewhere (i.e. here).
 
 ## AFC Goals - 2024-25
 
-Goals [data source](https://fbref.com/en/squads/4cb614ef/2024-2025/goallogs/all_comps/Auckland-FC-Goal-Logs-All-Competitions)
-
-| Reddit link                                                                                              | Date       | Venue | Scorer                  | Opponent       | Start | Minute | Score | Goalkeeper          | Assist           | Notes    |
+| Goal clip                                                                                                | Date       | Venue | Scorer                  | Opponent       | Start | Minute | Score | Goalkeeper          | Assist           | Notes    |
 | -------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------------------- | -------------- | ----- | ------ | ----- | ------------------- | ---------------- | -------- |
 | [#1](https://www.reddit.com/r/AucklandFC/comments/1j0g9yf/auckland_fcs_goal_a_day_1_van_der_saag_og_vs/) | 2024-10-19 | Home  | Harry Van der Saag (OG) | Brisbane       | Y     | 8      | 0-0   | Macklin Freke       |                  | Own Goal |
 | [#2](https://www.reddit.com/r/AucklandFC/comments/1j18fb9/auckland_fcs_goal_a_day_2_logan_rogerson_vs/)  | 2024-10-19 | Home  | Logan Rogerson          | Brisbane       | Y     | 74     | 1-0   | Macklin Freke       | Guillermo May    |          |
