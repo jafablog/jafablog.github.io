@@ -1,8 +1,9 @@
 +++
-date = 2025-03-01T04:14:54-08:00
-draft = false
 title = 'Auckland Goal A Day, 2024-25 season'
+draft = false
+date = '2025-03-01T19:40:04+12:00'
 weight = 10
+tags = ['goals','2024-25','highlights']
 [params]
   author = 'Jafa Fan'
 +++

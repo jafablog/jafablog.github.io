@@ -1,10 +1,7 @@
 +++
-date = 2025-03-03T04:14:54-08:00
-draft = false
 title = 'Auckland Games and Highlights, 2024-25 season'
-weight = 10
-[params]
-  author = 'Jafa Fan'
+date = '2025-03-03T07:40:04+12:00'
+tags = ['games','2024-25','highlights']
 +++
 
 # Auckland Games and Highlights, 2024-25 season
@@ -14,7 +11,7 @@ These are all the games we have scheduled so far.
 There will be more games if/when we qualify for the playoffs.
 
 - Game Data from [fbref](https://fbref.com/en/squads/4cb614ef/Auckland-FC-Stats)
-- Highlights from Sky Sports' Youtube channel
+- Highlights from Sky Sports' Youtube channel.
 
 ## AFC Games, 2024-25
 
